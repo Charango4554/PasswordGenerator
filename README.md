@@ -1,2 +1,2 @@
 # PasswordGenerator
-This program generates a random password based on the number of letters, numbers, and special characters desired by the user.
+This program generates a random password based on the number of letters, numbers and special characters desired by the user. The program prompts the user to enter the number of each type of character to include, then randomly selects characters from a combined set of letters, numbers, and special characters to create the password. The final password is created by randomly mixing characters.
